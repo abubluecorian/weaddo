@@ -1,0 +1,63 @@
+:root {
+
+/* Colors: */
+--unnamed-color-d9202a: #D9202A;
+--unnamed-color-000000: #000000;
+
+/* Font/text values */
+--unnamed-font-family-mulish: Mulish;
+--unnamed-font-style-normal: normal;
+--unnamed-font-weight-300: 300px;
+--unnamed-font-weight-bold: bold;
+--unnamed-font-weight-normal: normal;
+--unnamed-font-size-15: 15px;
+--unnamed-font-size-30: 30px;
+--unnamed-font-size-40: 40px;
+--unnamed-font-size-50: 50px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-line-spacing-19: 19px;
+--unnamed-line-spacing-38: 38px;
+--unnamed-line-spacing-50: 50px;
+--unnamed-line-spacing-63: 63px;
+--unnamed-text-transform-uppercase: uppercase;
+}
+
+/* Character Styles */
+.unnamed-character-style-1 {
+font-family: var(--unnamed-font-family-mulish);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-bold);
+font-size: var(--unnamed-font-size-15);
+line-height: var(--unnamed-line-spacing-19);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+text-transform: var(--unnamed-text-transform-uppercase);
+}
+.unnamed-character-style-2 {
+font-family: var(--unnamed-font-family-mulish);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-bold);
+font-size: var(--unnamed-font-size-50);
+line-height: var(--unnamed-line-spacing-63);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-d9202a);
+}
+.unnamed-character-style-3 {
+font-family: var(--unnamed-font-family-mulish);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-30);
+line-height: var(--unnamed-line-spacing-38);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+text-transform: var(--unnamed-text-transform-uppercase);
+}
+.unnamed-character-style-4 {
+font-family: var(--unnamed-font-family-mulish);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-40);
+line-height: var(--unnamed-line-spacing-50);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+}
