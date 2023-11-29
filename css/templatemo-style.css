@@ -1,8 +1,6 @@
 /*
 
-Lavish HTML CSS Template
 
-https://templatemo.com/tm-458-lavish
 		
 */
 body {
@@ -197,10 +195,13 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
+     
+
         background: url('../img/Image 17.png');
-        background-size: cover;
+        background-size: contain;
+       
         background-repeat: no-repeat;
-        padding-top: 120px;
+       
         padding-bottom: 140px;
         text-align: center;
         height: 993px!important;
